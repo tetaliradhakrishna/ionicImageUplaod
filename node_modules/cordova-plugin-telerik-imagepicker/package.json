@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-telerik-imagepicker@2.2.4",
+      "/home/radhakrishna/Documents/MyWorks/OfficeLocalHost/myOfficeWorks/stuff2/ionic4-image-crop-upload"
+    ]
+  ],
+  "_from": "cordova-plugin-telerik-imagepicker@2.2.4",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-telerik-imagepicker@2.2.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-telerik-imagepicker",
+  "_nodeVersion": "10.13.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-telerik-imagepicker_2.2.4_1550478285700_0.6603348808138856"
+  },
+  "_npmUser": {
+    "email": "eddyverbruggen@gmail.com",
+    "name": "eddyverbruggen"
+  },
+  "_npmVersion": "6.7.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-telerik-imagepicker",
+    "raw": "cordova-plugin-telerik-imagepicker@2.2.4",
+    "rawSpec": "2.2.4",
+    "scope": null,
+    "spec": "2.2.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-telerik-imagepicker/-/cordova-plugin-telerik-imagepicker-2.2.4.tgz",
+  "_shasum": "9864ef28a773e208d520e8610da72edd93957168",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-telerik-imagepicker@2.2.4",
+  "_where": "/home/radhakrishna/Documents/MyWorks/OfficeLocalHost/myOfficeWorks/stuff2/ionic4-image-crop-upload",
+  "bugs": {
+    "url": "https://github.com/Telerik-Verified-Plugins/ImagePicker/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-telerik-imagepicker",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "cordova_name": "ImagePicker",
+  "dependencies": {},
+  "description": "This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 81,
+    "integrity": "sha512-H3OfgzoLuF6BGOwBVFeXCDQ7N8Y1Q7gE3jRC/pAVLuizSBgpN2Z8Dx+0PQBkg9m5/9qkz0SOgwZqtA7N6VWMGw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcamvOCRA9TVsSAnZWagAANUkP/RoCUoGVQJmMfcLRfOMf\nFyvMceMsjwRlteSeC/MHkTEHMG/2zntvVQEWYhRBIxFiZQy1tEzRVHldDK9E\nZ/gdDFri6tL0Jh0TIWFmatv5mBUsNVynaM6a+oG+rYppFVMO7QJKaQcBZqTW\nHaEr13uGIx10+oqRME4bmBCH4cpKyQQhwTv4SkSFxIsp/avFoTvEIR9xCuqh\nNUVvU4yzNypDN+6q8JVzLpLLBrI7nMHGIcKo3LvQhYuY1tdMgSDXFAqABL57\nt4IYSRYuRus0XYSkuGmhbvDUTnOzrdgc2ain/+36OJor70r+DShOckBntAy1\n2x+Gud12A90gxpA9IXr6LnZJyIBdtueBKpt7wceAf24lH2N5ZXijuJp/Hnun\nHm4kCqBUkvGMoGTXqZGN/C8PaMe9lRhLyINmHmFFN1F9e24oa5hmGflrYKjy\nvFcKPcj4CLRfctfunwJXoY2SZa1FV5+kDvwaCA4ETn45puSakdOakQWtglht\nZzXoIL7lNgpAKFdJI9UqRukUq/jwh/IzBy8MXqprHX1d+zKCWhP2WjKQC0wq\nGS4z1YWW2FVASlRCGgZ+iKNosElnhCza994S/poihm6Ia0QqWh5sQSYV2mwM\nW3dD45qQDh7PVOj/N4Lb1w10ZiO/WM8XvQfalJJJ1d8PQNzVZPge7uQYUH5D\n2dM0\r\n=V/8j\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "9864ef28a773e208d520e8610da72edd93957168",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-telerik-imagepicker/-/cordova-plugin-telerik-imagepicker-2.2.4.tgz",
+    "unpackedSize": 249262
+  },
+  "engines": {
+    "name": "cordova",
+    "version": ">=3.5.0"
+  },
+  "gitHead": "dc70f4e1a46d828e4849808e0a0ab767db83dd27",
+  "homepage": "https://github.com/Telerik-Verified-Plugins/ImagePicker#readme",
+  "issue": "",
+  "keywords": [],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-telerik-imagepicker",
+  "optionalDependencies": {},
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Telerik-Verified-Plugins/ImagePicker.git"
+  },
+  "version": "2.2.4"
+}

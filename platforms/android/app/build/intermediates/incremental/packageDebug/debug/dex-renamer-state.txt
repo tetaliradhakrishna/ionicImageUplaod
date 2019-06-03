@@ -1,0 +1,4 @@
+#Mon Jun 03 16:18:20 IST 2019
+base.0=/home/radhakrishna/Documents/MyWorks/OfficeLocalHost/myOfficeWorks/stuff2/ionic4-image-crop-upload/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
